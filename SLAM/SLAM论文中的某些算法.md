@@ -1,0 +1,12 @@
+- [ ] 单目计算深度的模型or算法：Metric3D
+- [ ] DINO Feature Extractor
+- [ ] 高斯泼溅（用于地图表示）
+- [ ] TriMLP 轻量级神经网络
+- [ ] 3D坐标回归问题，场景坐标回归SCR
+- [ ] 神经辐射场NeRF
+- [ ] 符号距离函数SDF
+- [ ] **先验引导深度校准（Prior Guided Depth Calibration, PGDC）**
+- [ ] **不连续性感知几何融合（Discontinuity Aware Geometric Fusion, DAGF）**
+- [ ] **结构引导深度调制器（Structural Guidance Depth Modulator, SGDM）**
+- [ ] LiDAR方案，look before you fuse
+- [ ] 
