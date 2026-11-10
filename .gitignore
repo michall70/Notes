@@ -1,10 +1,2 @@
 .obsidian/
-*.exe
-*.o
-*.obj
-*.so
-*.dylib
-*.dll
-*~
-.DS_Store
-Thumbs.db
+.Attachments/
